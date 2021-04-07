@@ -3,7 +3,7 @@
 ## 1. Summary
 * Read Massalin and Warren papers
 * Pulled Aha! code from "distrib" branch which wouldn't compile on OSX11 clang without a bunch of warnings and errors
-* Pulled Aha! code from "master" branch wich compiled with no problems. Ran with provided "abs" and "avg" programs.
+* Pulled Aha! code from "master" branch which compiled with no problems. Ran with provided "abs" and "avg" programs.
 
 ## 2. Results
 
